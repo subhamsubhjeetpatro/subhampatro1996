@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **subhampatro15@gmail.com**
 
-- 📄 Know about my experiences [Experienced Fullstack Web Developer | 5 Years of Expertise in MERN Stack](Experienced Fullstack Web Developer | 5 Years of Expertise in MERN Stack)
+- 📄 Know about my experiences  - Experienced Fullstack Web Developer | 5 Years of Expertise in MERN Stack
 
 - ⚡ Fun fact **I’m a gamer at heart—building worlds by day, exploring virtual ones by night.**
 
